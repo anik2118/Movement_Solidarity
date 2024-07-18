@@ -29,5 +29,6 @@ https://youtu.be/74QQfPrk4vE?si=CEPi9BDN11ETuvHK
 - Run the program using any Python IDE.
 
 Note: Follow mailing service guidelines to avoid violating email policies.
+**Dont Send More than 150 emails otherwise google will ban you**
 
 
