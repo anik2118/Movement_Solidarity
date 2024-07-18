@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # Load environment variables
 
-with open(r"Quota_movement\sender_list.txt", 'r') as file:
+with open(r"\Quota_movement\reciever_list.txt", 'r') as file:
     reciever_list = file.read().splitlines()
 """
 sender mail-> your email address
