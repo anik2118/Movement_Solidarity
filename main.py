@@ -2,14 +2,18 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import asyncio
+import os
 
 import logging
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Load environment variables
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
-with open(r"\Quota_movement\reciever_list.txt", 'r') as file:
+# Construct the full path to the receiver list file
+receiver_list_path = os.path.join(script_dir, "reciever_list.txt")
+with open(receiver_list_path , 'r') as file:
     reciever_list = file.read().splitlines()
 """
 sender mail-> your email address
