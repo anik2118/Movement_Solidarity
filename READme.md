@@ -18,7 +18,7 @@ Add email addresses of recipients in line format in the appropriate section of t
 - Enter your Gmail address and Gmail App Password in the program.
 use this link: to create app password : 
 N:B:**app password is not Gmail account password**
-follow : **gmail account login->On Two Factor Authentication->Get App password**
+follow : **gmail account login->On Two Factor Authentication->Get App password**<br>
 https://youtu.be/74QQfPrk4vE?si=CEPi9BDN11ETuvHK
 
 4. Modify SMTP Server (if needed):
