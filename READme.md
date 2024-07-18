@@ -15,7 +15,11 @@ Add email addresses of recipients in line format in the appropriate section of t
 - Open the main.py and replace the 24,25 lines of the Code:
         sender_email="Your email address"
         sender_apppassword=" your app password "
-- Enter your Gmail address and Gmail App Password twice (for security) in the program.
+- Enter your Gmail address and Gmail App Password in the program.
+use this link: to create app password : 
+N:B:**app password is not Gmail account password**
+follow : **gmail account login->On Two Factor Authentication->Get App password**
+https://youtu.be/74QQfPrk4vE?si=CEPi9BDN11ETuvHK
 
 4. Modify SMTP Server (if needed):
 - If using a different email service, replace the SMTP server in the code with the appropriate server. You can find this information by searching online.
