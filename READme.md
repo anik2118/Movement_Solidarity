@@ -8,7 +8,7 @@ git clone https://github.com/anik2118/Movement_Solidarity
 2. Insert Receiver List:
 Add email addresses of recipients in line format in the appropriate section of the program.
     Example:https://github.com/anik2118/Movement_Solidarity/blob/master/READme.txt
-    xyt@gmailii.com
+    xyt@gmailii.com<br>
     yswe@example.com
 
 3. Setup for Gmail Users:
