@@ -1,15 +1,26 @@
-insert your reciever list:in line format 
-like:
-xyt@gmaili.com
-yswe@exaple.com
-Run:
-cloning the github repo
-type: git clone https://github.com/anik2118/Quota_movement
-insert:
-1.your email address
-2.your email app password(repeat again app password)
-run the program
-only python should be installed for the project.
-it can be downloaded from:https://www.python.org/downloads/
-only run the program using any ide.
+Automatic Email Sender for Movement Solidarity
+
+This tool allows you to send emails to attract attention to any movement. Please follow these guidelines to use it responsibly:
+
+1. Clone the GitHub Repository:
+git clone https://github.com/anik2118/Movement_Solidarity
+
+2. Insert Receiver List:
+Add email addresses of recipients in line format in the appropriate section of the program.
+    Example:
+    xyt@gmailii.com
+    yswe@example.com
+
+3. Setup for Gmail Users:
+- Enter your Gmail address and Gmail App Password twice (for security) in the program.
+
+4. Modify SMTP Server (if needed):
+- If using a different email service, replace the SMTP server in the code with the appropriate server. You can find this information by searching online.
+
+5. Running the Program:
+- Ensure Python is installed (download from Python.org).
+- Run the program using any Python IDE.
+
+Note: Follow mailing service guidelines to avoid violating email policies.
+
 
