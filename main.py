@@ -50,7 +50,7 @@ class EmailSender():
   <p>Thank you for your time and consideration.</p>
 
   <p>Best regards,<br>
-  student of Bangladesh<br>
+  Student of Bangladesh<br>
 
 </body>
 </html>                          
