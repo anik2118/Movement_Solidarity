@@ -7,11 +7,12 @@ git clone https://github.com/anik2118/Movement_Solidarity
 
 2. Insert Receiver List:
 Add email addresses of recipients in line format in the appropriate section of the program.
-    Example:
+    Example:https://github.com/anik2118/Movement_Solidarity/blob/master/READme.txt
     xyt@gmailii.com
     yswe@example.com
 
 3. Setup for Gmail Users:
+- Open the main.py and replace the
 - Enter your Gmail address and Gmail App Password twice (for security) in the program.
 
 4. Modify SMTP Server (if needed):
