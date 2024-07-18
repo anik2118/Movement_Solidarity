@@ -12,9 +12,9 @@ Add email addresses of recipients in line format in the appropriate section of t
     yswe@example.com
 
 3. Setup for Gmail Users:
-- Open the main.py and replace the 24,25 lines of the Code:
-        sender_email="Your email address"
-        sender_apppassword=" your app password "
+- Open the main.py and replace the 24,25 lines of the Code:<br>
+       **sender_email="Your email address"<br>**
+        **sender_apppassword=" your app password "**
 - Enter your Gmail address and Gmail App Password in the program.
 use this link: to create app password : 
 N:B:**app password is not Gmail account password**
